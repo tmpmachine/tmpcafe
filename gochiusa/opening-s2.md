@@ -1,3 +1,5 @@
+Reference : https://www.youtube.com/watch?v=C-nT3y1vIFg
+
 ## Intro
 ```
 A A/B G#m7 C#m7
